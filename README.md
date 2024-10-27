@@ -1,0 +1,2 @@
+# AdSimple Cookie Notice Plugin
+

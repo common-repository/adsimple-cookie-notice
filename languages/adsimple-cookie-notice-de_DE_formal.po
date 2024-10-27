@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdSimple Cookie Notice\n"
+"POT-Creation-Date: 2018-02-21 17:56+0300\n"
+"PO-Revision-Date: 2018-03-30 22:11+0200\n"
+"Language-Team: https://www.adsimple.at\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Andreas Ostheimer <andreas@ostheimer.at>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../adsimple-cookie-notice.php:105
+msgid "Top"
+msgstr "Oben"
+
+#: ../adsimple-cookie-notice.php:106
+msgid "Bottom"
+msgstr "Unten"
+
+#: ../adsimple-cookie-notice.php:110 ../adsimple-cookie-notice.php:141
+msgid "None"
+msgstr "Kein"
+
+#: ../adsimple-cookie-notice.php:111
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../adsimple-cookie-notice.php:112
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: ../adsimple-cookie-notice.php:116
+msgid "Custom link"
+msgstr "Benutzerdefinierter Link"
+
+#: ../adsimple-cookie-notice.php:117
+msgid "Page link"
+msgstr "Seitenlink"
+
+#: ../adsimple-cookie-notice.php:126
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: ../adsimple-cookie-notice.php:127
+msgid "Bar color"
+msgstr "Balkenfarbe"
+
+#: ../adsimple-cookie-notice.php:131
+msgid "1 day"
+msgstr "1 Tag"
+
+#: ../adsimple-cookie-notice.php:132
+msgid "1 week"
+msgstr "1 Woche"
+
+#: ../adsimple-cookie-notice.php:133
+msgid "1 month"
+msgstr "1 Monat"
+
+#: ../adsimple-cookie-notice.php:134
+msgid "3 months"
+msgstr "3 Monate"
+
+#: ../adsimple-cookie-notice.php:135
+msgid "6 months"
+msgstr "6 Monate"
+
+#: ../adsimple-cookie-notice.php:136
+msgid "1 year"
+msgstr "1 Jahr"
+
+#: ../adsimple-cookie-notice.php:137
+msgid "infinity"
+msgstr "Unendlich"
+
+#: ../adsimple-cookie-notice.php:142
+msgid "Fade"
+msgstr "Ausblenden"
+
+#: ../adsimple-cookie-notice.php:143
+msgid "Slide"
+msgstr "Einschieben"
+
+#: ../adsimple-cookie-notice.php:147
+msgid "Header"
+msgstr "Kopfbereich"
+
+#: ../adsimple-cookie-notice.php:148
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: ../adsimple-cookie-notice.php:154
+msgid ""
+"We use cookies to ensure that we give you the best experience on our "
+"website. If you continue to use this site we will assume that you are happy "
+"with it."
+msgstr ""
+"Mit der weiteren Nutzung unserer Webseite erklären Sie sich damit "
+"einverstanden, dass wir Cookies verwenden um Ihnen die Nutzerfreundlichkeit "
+"dieser Webseite zu verbessern. Weitere Informationen zum Datenschutz finden "
+"Sie in unserer Datenschutzerklärung."
+
+#: ../adsimple-cookie-notice.php:155
+msgid "Ok"
+msgstr "Ok"
+
+#: ../adsimple-cookie-notice.php:156
+msgid "No"
+msgstr "Nein."
+
+#: ../adsimple-cookie-notice.php:157
+msgid "Read more"
+msgstr "Weitere Informationen"
+
+#: ../adsimple-cookie-notice.php:217 ../adsimple-cookie-notice.php:229
+msgid "Adsimple Cookie Notice"
+msgstr "Adsimple Cookie Notice"
+
+#: ../adsimple-cookie-notice.php:240
+msgid "Reset to defaults"
+msgstr "Auf Standardeinstellungen zurücksetzen"
+
+#: ../adsimple-cookie-notice.php:256
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: ../adsimple-cookie-notice.php:257
+msgid "Message"
+msgstr "Nachricht"
+
+#: ../adsimple-cookie-notice.php:258
+msgid "Button text"
+msgstr "Buttontext"
+
+#: ../adsimple-cookie-notice.php:259
+msgid "More info link"
+msgstr "\"Weitere Informationen\"-Link"
+
+#: ../adsimple-cookie-notice.php:260
+msgid "Link target"
+msgstr "Linkziel"
+
+#: ../adsimple-cookie-notice.php:261
+msgid "Refuse button"
+msgstr "\"Ablehnen\"-Schaltfläche"
+
+#: ../adsimple-cookie-notice.php:262
+msgid "Script blocking"
+msgstr "Skriptblockierung"
+
+#: ../adsimple-cookie-notice.php:263
+msgid "Reloading"
+msgstr "Erneutes Laden"
+
+#: ../adsimple-cookie-notice.php:264
+msgid "On scroll"
+msgstr "Beim Scrollen"
+
+#: ../adsimple-cookie-notice.php:265
+msgid "Cookie expiry"
+msgstr "Gültigkeitsdauer des Cookies"
+
+#: ../adsimple-cookie-notice.php:266
+msgid "Script placement"
+msgstr "Skriptplatzierung"
+
+#: ../adsimple-cookie-notice.php:267
+msgid "Deactivation"
+msgstr "Deaktivierung"
+
+#: ../adsimple-cookie-notice.php:270
+msgid "Design"
+msgstr "Design"
+
+#: ../adsimple-cookie-notice.php:271
+msgid "Position"
+msgstr "Position"
+
+#: ../adsimple-cookie-notice.php:272
+msgid "Animation"
+msgstr "Animation"
+
+#: ../adsimple-cookie-notice.php:273
+msgid "Button style"
+msgstr "Button-Stil"
+
+#: ../adsimple-cookie-notice.php:274
+msgid "Colors"
+msgstr "Farben"
+
+#: ../adsimple-cookie-notice.php:288
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "Aktivieren, um alle Plugin-Daten beim Deaktivieren zu löschen."
+
+#: ../adsimple-cookie-notice.php:298
+msgid "Enter the cookie notice message."
+msgstr "Hier den Cookie-Meldungstext eingeben."
+
+#: ../adsimple-cookie-notice.php:309
+msgid ""
+"The text of the option to accept the usage of the cookies and make the "
+"notification disappear."
+msgstr ""
+"Der Text für die Option, die Verwendung von Cookies zu akzeptieren und die "
+"Meldung auszublenden."
+
+#: ../adsimple-cookie-notice.php:319
+msgid ""
+"Give to the user the possibility to refuse third party non functional "
+"cookies."
+msgstr ""
+"Gib' dem Benutzer die Möglichkeit, nicht funktionale Cookies von "
+"Drittanbietern abzulehnen."
+
+#: ../adsimple-cookie-notice.php:324
+msgid "The text of the option to refuse the usage of the cookies."
+msgstr "Der Text der Option, die Verwendung der Cookies zu verweigern."
+
+#: ../adsimple-cookie-notice.php:348
+msgid ""
+"Enter non functional cookies Javascript code here (for e.g. Google "
+"Analitycs) to be used after cookies are accepted."
+msgstr ""
+"Trage hier den Javascript-Code für nicht funktionale Cookies (z. B. Google "
+"Analitycs) ein. Es wird verwendet, nachdem Cookies akzeptiert wurden."
+
+#: ../adsimple-cookie-notice.php:348
+msgid ""
+"To get the cookie notice status use <code>cn_cookies_accepted()</code> "
+"function."
+msgstr ""
+"Um den Cookie-Benachrichtigungsstatus zu erhalten, benutze "
+"<code>cn_cookies_accepted()</code> -Funktion."
+
+#: ../adsimple-cookie-notice.php:357
+msgid "Enable to reload the page after cookies are accepted."
+msgstr ""
+"Aktivieren Sie diese Option, um die Seite neu zu laden, nachdem Cookies "
+"akzeptiert wurden."
+
+#: ../adsimple-cookie-notice.php:379
+msgid "Enable Read more link."
+msgstr "Aktiviere den \"Weitere Informationen\"-Link."
+
+#: ../adsimple-cookie-notice.php:380
+#, php-format
+msgid ""
+"Need a Cookie Policy? Generate one with <a href=\"%s\" target=\"_blank\" "
+"title=\"iubenda\">iubenda</a>"
+msgstr ""
+
+#: ../adsimple-cookie-notice.php:386
+msgid "The text of the more info button."
+msgstr "Text für die Schalfläche \"Weitere Informationen\"."
+
+#: ../adsimple-cookie-notice.php:400
+msgid "Select where to redirect user for more information about cookies."
+msgstr ""
+"Wähle, wohin der Benutzer für weitere Informationen weitergeleitet werden "
+"soll."
+
+#: ../adsimple-cookie-notice.php:403
+msgid "-- select page --"
+msgstr "-- Seite auswählen --"
+
+#: ../adsimple-cookie-notice.php:414
+msgid "Select from one of your site's pages"
+msgstr "Wähle eine Seite Deiner Website"
+
+#: ../adsimple-cookie-notice.php:418
+msgid "Enter the full URL starting with http://"
+msgstr "Gib' die vollständige URL ein, beginnend mit http(s)://"
+
+#: ../adsimple-cookie-notice.php:438
+msgid "Select the link target for more info page."
+msgstr "Wähle den Ziel-Link für die \"Weitere Informationen\"-Seite aus."
+
+#: ../adsimple-cookie-notice.php:458
+msgid "The ammount of time that cookie should be stored for."
+msgstr "Der Zeitraum, für welchen das Cookie gespeichert werden soll."
+
+#: ../adsimple-cookie-notice.php:472
+msgid "Select where all the plugin scripts should be placed."
+msgstr "Wähle aus, wo die Plugin-Skripte platziert werden sollen."
+
+#: ../adsimple-cookie-notice.php:490
+msgid "Select location for your cookie notice."
+msgstr "Wähle die Position für Deinen Cookie-Hinweis."
+
+#: ../adsimple-cookie-notice.php:509
+msgid "Cookie notice acceptance animation."
+msgstr "Animation bei Bestätigung des Cookie-Hinweises."
+
+#: ../adsimple-cookie-notice.php:519
+msgid "Enable cookie notice acceptance when users scroll."
+msgstr ""
+"Aktiviere die automatische Bestätigung des Cookie-Hinweises, wenn Benutzer "
+"weiterscrollen."
+
+#: ../adsimple-cookie-notice.php:523
+msgid ""
+"Number of pixels user has to scroll to accept the usage of the cookies and "
+"make the notification disappear."
+msgstr ""
+"Anzahl der Pixel, die ein Benutzer scrollen muss, um den Cookie-Hinweis zu "
+"akzeptieren und die Hinweis-Meldung auszublenden."
+
+#: ../adsimple-cookie-notice.php:543
+msgid "Choose buttons style."
+msgstr "Den Schlatflächen-Stil auswählen."
+
+#: ../adsimple-cookie-notice.php:660
+msgid "Settings restored to defaults."
+msgstr "Die Einstellungen wurden auf \"Standard\" zurückgesetzt."
+
+#: ../adsimple-cookie-notice.php:762
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../adsimple-cookie-notice.php:795
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr ""
+"Sind Sie sicher, dass Sie alle Einstellungen auf die Standardwerte "
+"zurücksetzen möchten?"

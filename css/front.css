@@ -1,0 +1,307 @@
+#adsimple-cookie-notice {
+    display: block;
+    
+    
+    min-width: 100%;
+    height: auto;
+    z-index: 100000;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    left: 0;
+}
+
+.adsimple-cookie-notice-container {
+	position:relative;
+	text-align:left;
+}
+
+.adsimple-cookie-notice-content {
+	max-width:1200px;
+	margin: 0 auto;
+        text-align: center;
+}
+.adsimple-cookie-notice-content__item {
+	display:inline-block;
+        zoom:1;
+        position: relative;
+}
+
+.adsimple-cookie-notice-content__item-text {
+	width:60%;
+	text-align:left;	
+	vertical-align:middle;
+}
+
+.adsimple-cookie-notice-content__item-text-inner {
+	padding:20px;
+}
+
+.adsimple-cookie-notice-content__links {
+	max-width:40%;
+	vertical-align:middle;
+}
+
+.adsimple-cookie-notice-content__links-inner {
+	padding:20px;
+	padding-bottom:10px;
+	padding-left:0;
+}
+
+.adsimple-cookie-notice-content__links-inner a {
+	margin-bottom:10px;
+}
+
+.powered-link {
+	position:absolute;
+	top:50%;
+	right:0;
+	bottom:50%;
+	margin-top: -12px;
+}
+@media only screen and (max-width: 1200px ) {
+    .powered-link {
+		position:relative;
+		display:block;
+		top:auto;
+		right:auto;
+		bottom:auto;
+		width:100%;
+		text-align:center;
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+}
+
+@media only screen and (max-width: 800px ) {
+    .adsimple-cookie-notice-content__item-text {
+		width:100%;
+		text-align:center;
+                max-width: 100%;
+	}
+	.adsimple-cookie-notice-content__links { 		
+		width:100%;
+		text-align:center;
+                max-width: 100%;
+	}	
+	.adsimple-cookie-notice-content__links-inner { 
+		padding-top: 0;
+                padding-left: 0;
+                padding-right: 0;
+	}        
+        .adsimple-cookie-notice-content__links-inner a {
+            font-size: 11px;
+        }
+}
+/*------------------*/
+
+.acn-top, .acn-bottom {
+    position: fixed;
+}
+
+.acn-top {
+    top: 0;
+}
+
+.acn-bottom {
+    bottom: 0;
+}
+
+#adsimple-cookie-notice .button {
+    margin-left: 10px;
+}
+
+#adsimple-cookie-notice .button.wp-default {
+    font-family: sans-serif;
+    line-height: 18px;
+    padding: 2px 12px;
+    background: linear-gradient(to bottom, #FEFEFE, #F4F4F4) repeat scroll 0 0 #F3F3F3;
+    border-color: #BBB;
+    color: #333;
+    text-shadow: 0 1px 0 #FFF;
+    -moz-box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-style: normal;
+    text-decoration: none;
+    white-space: nowrap;
+    outline: none;
+}
+
+#adsimple-cookie-notice .button.wp-default:hover, #adsimple-cookie-notice .button.wp-default:focus {
+    background: linear-gradient(to bottom, #FFFFFF, #F3F3F3) repeat scroll 0 0 #F3F3F3;
+    border-color: #999999;
+    color: #222222;
+}
+
+#adsimple-cookie-notice .button.bootstrap {
+    font-family: sans-serif;
+    display: inline-block;
+    *display: inline;
+    padding: 4px 12px;
+    margin-right: 0.3em;
+    margin-bottom: 0;
+    *margin-left: .3em;
+    line-height: 20px;
+    color: #333333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    font-style: normal;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #ffffff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #006dcc;
+    *background-color: #0044cc;
+    background-image: -moz-linear-gradient(top, #0088cc, #0044cc);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0044cc));
+    background-image: -webkit-linear-gradient(top, #0088cc, #0044cc);
+    background-image: -o-linear-gradient(top, #0088cc, #0044cc);
+    background-image: linear-gradient(to bottom, #0088cc, #0044cc);
+    background-repeat: repeat-x;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0044cc #0044cc #002a80;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    padding: 2px 10px;
+    font-size: 12px;
+    text-decoration: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    outline: none;
+}
+
+#adsimple-cookie-notice .button.bootstrap:hover, #adsimple-cookie-notice .button.bootstrap:focus {
+    color: #ffffff;
+    background-color: #0044cc;
+    *background-color: #003bb3;
+    background-position: 0 -15px;
+    -webkit-transition: background-position 0.1s linear;
+    -moz-transition: background-position 0.1s linear;
+    -o-transition: background-position 0.1s linear;
+    transition: background-position 0.1s linear;
+}
+
+#adsimple-cookie-notice .powered-link {
+    white-space: nowrap;
+}
+
+@media only screen and (min-width: 800px ) {
+    #adsimple-cookie-notice .powered-link {
+        padding-right: 1em;
+    }
+}
+
+#adsimple-cookie-notice .powered-link a {
+    color: inherit;
+    font-size: .8em;
+}
+
+#adsimple-cookie-notice a, #adsimple-cookie-notice a:hover {
+    color: inherit;
+}
+
+#adsimple-readmore-tab {
+    
+    display: none;
+    
+    position: fixed;
+    font-family: inherit;
+    bottom: 0px;
+    right: 100px;
+    font-size: 10pt;
+    margin: 0;
+    padding: 2px 10px;
+    text-align: center;
+    z-index: 9999;
+    cursor: pointer;
+}
+
+.adsimple-cookie-notice-container .fusion-button {
+    margin: 0px 10px;
+    padding: 3px 20px;
+}
+
+.adsimple-cookie-notice-container .button-pill,
+.adsimple-cookie-notice-container .fusion-button-pill {
+	border-radius: 25px!important;
+}
+
+.adsimple-cookie-notice-container .fusion-button.button-flat {
+	-webkit-box-shadow: none!important;
+    box-shadow: none!important;
+}
+
+.adsimple-cookie-notice-container a.fusion-button {
+    text-decoration: none;
+}
+
+.adsimple-cookie-notice-container .button-round, 
+.adsimple-cookie-notice-container .fusion-button-round {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.adsimple-cookie-notice-slide {
+    -webkit-animation-duration: 0.8s;
+    -moz-animation-duration: 0.8s;
+    -o-animation-duration: 0.8s;
+    animation-duration: 0.8s;
+    -webkit-animation-name: growDown;
+    animation-name: growDown;
+}
+.adsimple-cookie-notice-slide .adsimple-cookie-notice-container {
+    -webkit-animation-duration: 0.8s;
+    -moz-animation-duration: 0.8s;
+    -o-animation-duration: 0.8s;
+    animation-duration: 0.8s;
+    -webkit-animation-name: slideDown;
+    animation-name: slideDown
+}
+@-webkit-keyframes growDown {
+    0% {
+        height: 0;
+        margin-top: -3px;
+    }
+    100% {
+        height: auto;
+        margin-top: 0;
+    }
+}
+@keyframes growDown {
+    0% {
+        height: 0;
+        margin-top: -3px;
+    }
+    100% {
+        height: auto;
+        margin-top: 0;
+    }
+}
+@-webkit-keyframes slideDown {
+    0% {
+        margin-top: -100%;
+    }
+    100% {
+        margin-top: 0;
+    }
+}
+@keyframes slideDown {
+    0% {
+        margin-top: -100%;
+    }
+    100% {
+        margin-top: 0;
+    }
+}
+
+

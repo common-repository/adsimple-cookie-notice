@@ -1,0 +1,144 @@
+/* Adsimple Cookie Notice settings */
+.df-credits {
+    float: right;
+    width: 280px;
+    background: #fff;
+    margin: 20px -300px 20px 20px;
+    position: relative;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+}
+
+.df-credits .inner {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.df-credits h3 {
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.df-credits .df-link {
+    font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+    font-style: italic;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.df-credits .df-link a {
+    vertical-align: middle;
+    padding: 5px 0 0 4px;
+}
+
+.df-promo h4 {
+    margin-bottom: 0;
+}
+
+.adsimple-cookie-notice-settings .df-credits form {
+    min-width: 260px;
+    margin-bottom: 1em;
+}
+
+.adsimple-cookie-notice-settings .df-credits form input {
+    margin: 0;
+    padding: 0;
+}
+
+.adsimple-cookie-notice-settings {
+    margin-right: 300px;
+}
+
+.adsimple-cookie-notice-settings hr, .df-credits hr {
+    border: solid #eee;
+    border-width: 1px 0 0;
+    clear: both;
+    height: 0;
+}
+
+.adsimple-cookie-notice-settings form {
+    float: left;
+    min-width: 463px;
+    width: 100%;
+}
+
+.adsimple-cookie-notice-settings fieldset span.description {
+    margin-bottom: 8px;
+    margin-top: 4px;
+    display: block;
+}
+
+.adsimple-cookie-notice-settings .ui-button {
+    margin-bottom: 5px;
+}
+
+.adsimple-cookie-notice-settings .description {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+#acn_colors label {
+    min-width: 10em;
+    display: inline-block;
+}
+
+#acn_colors div {
+    vertical-align: middle;
+}
+
+.acn-color-value {
+    display: block;
+    width: 50px;
+    height: 24px;
+    border: 1px solid rgb(221,221,221);
+    border-radius: 3px;
+    margin: 5px 0;
+}
+
+#acn-colors {
+    position: relative;
+}
+
+.acn-colors-notification {
+    display: none;
+    position: absolute;
+    left: 9em;
+    background: rgba(255,255,255,.4);
+    padding: 2em;
+    border-radius: 3px;
+    border: 1px solid rgb(221,221,221);
+}
+
+#acn-colors:hover .acn-colors-notification {
+    display: block;
+}
+
+#acn_custom_css {
+    display: block;
+    width: 99%;
+    height: 300px;
+    border: 1px solid #ccc;
+}
+
+.acn_id {
+   display: none;
+}
+
+.acn_id--active {
+    display: block;
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 959px) {
+    .df-credits {
+        width: 100%;
+        float: none;
+        margin: 20px 0;
+    }
+
+    .adsimple-cookie-notice-settings {
+        margin-right: 0;
+    }
+}
